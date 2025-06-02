@@ -1,0 +1,11 @@
+
+fastapi>=0.115.12
+uvicorn>=0.34.2
+pandas>=2.2.3
+scikit-learn>=1.6.1
+numpy>=1.22
+spacy>=3.8.7
+joblib>=1.5.1
+pydantic>=2.11.5
+sqlalchemy>=2.0.41
+psycopg2-binary>=2.9.10
